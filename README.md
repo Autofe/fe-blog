@@ -37,7 +37,7 @@ Vue2, Vue SSR, Koa2, MongoDB and Redis
   - [x] vue2.0
   - [x] vuex状态管理
   - [x] vue SSR服务端渲染
-  - [x] 客户端谷歌统计 
+  - [x] PWA 
   - [x] 组件级缓存
   - [x] Loading组件
   - [x] 侧边栏图片
@@ -66,6 +66,7 @@ Vue2, Vue SSR, Koa2, MongoDB and Redis
 - pm2
 - MongoDB
 - Redis
+
 
 
 
