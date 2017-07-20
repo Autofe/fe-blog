@@ -7,7 +7,7 @@ Vue2, Vue SSR, Koa2, MongoDB and Redis
 # Demo 
 前端：[http://wangshiyang.com)
 
-后台管理截图：暂无 
+后台管理系统截图：![后台管理系统](https://autocfe.cn/dist/admin.png)
 
 目录
 =================
