@@ -5,7 +5,7 @@ Vue2, Vue SSR, Koa2, MongoDB and Redis
 前后端分离 + 服务端渲染的博客系统, 前端SPA + 后端RESTful服务器
 
 # Demo 
-前端：[http://wangshiyang.com)
+前端：[http://autocfe.com)
 
 后台管理系统截图：![后台管理系统](https://autocfe.cn/dist/admin.png)
 
